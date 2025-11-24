@@ -98,5 +98,5 @@ Export to CSV or PDF
 
 GUI using C++/GTK or Python interface 
 
-![image alt](https://github.com/250301120332-oss/hospital-management/blob/55f351899d07b3808fcc50f5c71652df07f1f221/HOSTPITAL%20OUTPUT%20-%20Copy.png)
+![image alt](https://github.com/250301120332-oss/hospital-management/blob/372395f9e25dc3135d25b788e99c4d66d898bba5/output.jpg)
 
